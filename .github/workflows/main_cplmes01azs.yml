@@ -63,4 +63,4 @@ jobs:
           app-name: 'CPLMES01AZS'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F1421FF45564EA1A36F4B9B78DCBCAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95A39CB525A04D0FA20B30135CE0DB47 }}
